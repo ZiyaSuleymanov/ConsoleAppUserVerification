@@ -1,0 +1,15 @@
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\bin\Debug\net8.0\ConsoleAppUserVerification.exe
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\bin\Debug\net8.0\ConsoleAppUserVerification.deps.json
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\bin\Debug\net8.0\ConsoleAppUserVerification.runtimeconfig.json
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\bin\Debug\net8.0\ConsoleAppUserVerification.dll
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\bin\Debug\net8.0\ConsoleAppUserVerification.pdb
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.AssemblyInfoInputs.cache
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.AssemblyInfo.cs
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.csproj.CoreCompileInputs.cache
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.sourcelink.json
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.dll
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\refint\ConsoleAppUserVerification.dll
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.pdb
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ConsoleAppUserVerification.genruntimeconfig.cache
+D:\Yeni yuklemeler D\C#tasks\C#tasks\Hometasks1\ConsoleAppUserVerification\obj\Debug\net8.0\ref\ConsoleAppUserVerification.dll
